@@ -2,7 +2,7 @@ title: Frankjwitte.github.io
 description: Personal page
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
